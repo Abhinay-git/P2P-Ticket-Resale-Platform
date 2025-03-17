@@ -16,4 +16,6 @@ A blockchain-powered peer-to-peer platform for ticket resales.
 
 ## Smart Contract address 
 0xBfd081B36fdC4725D79E9f4c4Ff964560dE78DD1
+![image](https://github.com/user-attachments/assets/0690276e-41d1-4676-bae6-c663104b34dc)
+
 
